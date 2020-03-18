@@ -1,0 +1,16 @@
+{
+  "name": "gunlor.github.io",
+  "version": "0.1.0",
+  "description": "go blog",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": "git@gunlor.github.com:gunlor/gunlor.github.io.git",
+  "author": "thomas LEBEAU <webanim.thomas.lebeau@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "fs-extra": "^8.1.0"
+  }
+}
